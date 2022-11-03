@@ -1,5 +1,5 @@
-DBT/target/run_results.json
-DBT/target/graph.gpickle
-DBT/target/partial_parse.msgpack
+target/run_results.json
+target/graph.gpickle
+target/partial_parse.msgpack
 dbt_packages/
 logs/
